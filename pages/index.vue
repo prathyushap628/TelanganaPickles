@@ -32,7 +32,7 @@ const pickleData = [
     { title: 'Tamato Pickle', quantity: '1kg', money: '300RS', imageSrc: 'assets/images/tamato.jpeg' },
     { title: 'Lemon Pickle', quantity: '1kg', money: '300RS', imageSrc: 'assets/images/tamato.jpeg' },
     { title: 'Amla Pickle', quantity: '1kg', money: '300RS', imageSrc: 'assets/images/tamato.jpeg' },
-    { title: 'Chicken Pickle', quantity: '1kg', money: '300RS', imageSrc: 'assets/images/tamato.jpeg' }
+    { title: 'Chicken Pickle', quantity: '1kg', money: '500RS', imageSrc: 'assets/images/tamato.jpeg' }
 ];
 </script>
 
