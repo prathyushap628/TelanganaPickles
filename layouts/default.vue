@@ -22,6 +22,8 @@
 
 .layout {
     background-color: lightgray;
+    overflow: hidden;
+
 
 }
 </style>

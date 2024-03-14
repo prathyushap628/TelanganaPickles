@@ -45,9 +45,10 @@ const pickleData = [
 .index-pickle-card {
     padding: 12px;
     margin: 12px;
-    display: grid;
     gap: 24px;
-    grid-template-columns: repeat(4, 1fr);
+    display: flex;
+    // justify-content: space-between;
+    flex-wrap: wrap;
 
 }
 
@@ -64,7 +65,6 @@ const pickleData = [
     p {
         font-weight: 500;
         font-size: 18px;
-
     }
 }
 </style>
