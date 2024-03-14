@@ -17,7 +17,7 @@ export default defineNuxtConfig({
         }
       ],
 
-      title: "nConnect Admin v2",
+      title: "Telangana Pickles",
     },
   },
 })

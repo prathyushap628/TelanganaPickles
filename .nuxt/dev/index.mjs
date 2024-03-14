@@ -1013,7 +1013,7 @@ function createServerHead(options = {}) {
 
 const unheadPlugins = [];
 
-const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1"},{"charset":"utf-8"}],"link":[{"href":"https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined","rel":"stylesheet"},{"href":"https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&display=swap","rel":"stylesheet"}],"style":[],"script":[],"noscript":[],"title":"nConnect Admin v2"};
+const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1"},{"charset":"utf-8"}],"link":[{"href":"https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined","rel":"stylesheet"},{"href":"https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&display=swap","rel":"stylesheet"}],"style":[],"script":[],"noscript":[],"title":"Telangana Pickles"};
 
 const appRootId = "__nuxt";
 
