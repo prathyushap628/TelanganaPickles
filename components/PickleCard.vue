@@ -5,15 +5,15 @@
             <img src="assets/images/gongura.webp" alt="">
             <div>
                 <p class="title"> Gongura</p>
-                <p class="cost"> <span> 1KG</span> 350 RS</p>
+                <!-- <p class="cost"> <span> 1KG</span> 350 RS</p> -->
             </div>
         </div>
 
         <div class="pickle-card">
             <img src="assets/images/tamato.jpg" alt="">
             <div>
-                <p class="title"> Tamato</p>
-                <p class="cost"> <span> 1KG</span> 350 RS</p>
+                <p class="title"> Tomato</p>
+                <!-- <p class="cost"> <span> 1KG</span> 350 RS</p> -->
             </div>
         </div>
 
@@ -21,7 +21,7 @@
             <img src="assets/images/bitter-guard.webp" alt="">
             <div>
                 <p class="title"> Bitter Guard</p>
-                <p class="cost"> <span> 1KG</span> 350 RS</p>
+                <!-- <p class="cost"> <span> 1KG</span> 350 RS</p> -->
             </div>
         </div>
 
@@ -29,7 +29,7 @@
             <img src="assets/images/chicken.webp" alt="">
             <div>
                 <p class="title"> Chicken</p>
-                <p class="cost"> <span> 1KG</span> 550 RS</p>
+                <!-- <p class="cost"> <span> 1KG</span> 550 RS</p> -->
             </div>
         </div>
 
@@ -38,7 +38,7 @@
             <img src="assets/images/drumstick.webp" alt="">
             <div>
                 <p class="title"> Drumstick</p>
-                <p class="cost"> <span> 1KG</span> 350 RS</p>
+                <!-- <p class="cost"> <span> 1KG</span> 350 RS</p> -->
             </div>
         </div>
 
@@ -46,7 +46,7 @@
             <img src="assets/images/lemon.jpg" alt="">
             <div>
                 <p class="title"> Lemon</p>
-                <p class="cost"> <span> 1KG</span> 350 RS</p>
+                <!-- <p class="cost"> <span> 1KG</span> 350 RS</p> -->
             </div>
         </div>
 
@@ -54,7 +54,7 @@
             <img src="assets/images/mango.jpg" alt="">
             <div>
                 <p class="title"> Mango</p>
-                <p class="cost"> <span> 1KG</span> 350 RS</p>
+                <!-- <p class="cost"> <span> 1KG</span> 350 RS</p> -->
             </div>
         </div>
 
@@ -62,7 +62,7 @@
             <img src="assets/images/kothimera.jpg" alt="">
             <div>
                 <p class="title"> Kothimera</p>
-                <p class="cost"> <span> 1KG</span> 350 RS</p>
+                <!-- <p class="cost"> <span> 1KG</span> 350 RS</p> -->
             </div>
         </div>
 
@@ -70,7 +70,7 @@
             <img src="assets/images/pandu-mirchi.webp" alt="">
             <div>
                 <p class="title"> Pandu Mirchi</p>
-                <p class="cost"> <span> 1KG</span> 350 RS</p>
+                <!-- <p class="cost"> <span> 1KG</span> 350 RS</p> -->
             </div>
         </div>
 
