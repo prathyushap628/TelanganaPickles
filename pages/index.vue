@@ -5,7 +5,7 @@
         </div>
 
         <div class="contact-us">
-            <h2>Contact Us</h2>
+            <h2>Contact Us:</h2>
             <p>
                 Call us on 9666920871
 
@@ -55,7 +55,7 @@ const pickleData = [
 .contact-us {
     padding: 24px;
     display: flex;
-    flex-direction: column;
+    // flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 10px;
