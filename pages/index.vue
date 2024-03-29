@@ -55,12 +55,15 @@ const pickleData = [
 .contact-us {
     padding: 24px;
     display: flex;
-    // flex-direction: column;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    overflow: hidden;
     gap: 10px;
     background-color: #030303;
     color: white;
+    text-align: center;
 
     p {
         font-weight: 500;
