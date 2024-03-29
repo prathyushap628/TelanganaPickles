@@ -1,8 +1,7 @@
 <template>
     <div class="index-page">
         <div class="index-pickle-card">
-            <PickleCard v-for="(item, index) in pickleData" :key="index" :title="item.title" :quantity="item.quantity"
-                :money="item.money" :imageSrc="item.imageSrc" />
+            <PickleCard />
         </div>
 
         <div class="contact-us">
