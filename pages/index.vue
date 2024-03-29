@@ -42,11 +42,12 @@ const pickleData = [
 }
 
 .index-pickle-card {
-    padding: 12px;
-    margin: 12px;
+    // padding: 12px;
+    margin: 12px 0px;
     gap: 24px;
     display: flex;
-    // justify-content: space-between;
+    align-items: center;
+    justify-content: center;
     flex-wrap: wrap;
 
 }
